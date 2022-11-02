@@ -52,12 +52,14 @@ spec:
   lifecycle: unspecified
   # GitHub team owner, see https://github.com/orgs/sumup/teams, required
   owner: unspecified
+  # The system this Component is part of, recommended
+  system: unspecified
   # List of API's the service exposes, reference name from the API definition section below, required
   # If adding the API's is a blocker, slack #backstage to get our help
   providesApis: [ ]
   # List of API's the service is connected to, see openapi or https://sumup.roadie.so/api-docs, required
   consumesApis: [ ]
----
+#---
 # API definition example
 #apiVersion: backstage.io/v1alpha1
 #kind: API
