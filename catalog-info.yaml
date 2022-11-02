@@ -24,7 +24,7 @@ metadata:
   links: 
     # Homepage taken from repository website setting, optional
     - title: Homepage
-      url: https://github.com/robinbraemer/test-create-pr 
+      url: https://example.com 
     # Link to Alerts Runbook, required
     #- title: Alerts Runbook
     #  url: https://sumupteam.atlassian.net/wiki/spaces/DEV/pages/2517664574/Ecom+Platform+Squad+Runbook
